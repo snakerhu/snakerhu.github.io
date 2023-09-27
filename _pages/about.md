@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> </p>
-    <p>123 Zhejiang University</p>
+    <p>Zhejiang University</p>
     <p>Your Hangzhou, Zhejiang</p>
 
 news: true  # includes a list of news items
