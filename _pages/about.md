@@ -11,7 +11,7 @@ profile:
   address: >
     <p> </p>
     <p>Zhejiang University</p>
-    <p>Your Hangzhou, Zhejiang</p>
+    <p>Hangzhou, Zhejiang</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
